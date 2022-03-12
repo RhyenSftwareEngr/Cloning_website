@@ -1,0 +1,278 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+/* Top navigation bar */
+
+nav {
+    background-color: #f9fafc;
+}
+
+nav .nav span#special_1 {
+    color: #3ead5e;
+}
+
+.nav {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #998d88;
+    font-size: 20px;
+}
+
+nav .nav span#special_2 {
+    border-left: 2px solid black;
+    padding-left: 6px;
+}
+
+.nav img {
+    position: relative;
+    top: 7px;
+}
+
+.nav_second {
+    display: inline-block;
+    margin-left: 900px;
+    vertical-align: top;
+}
+
+.nav_second span {
+    color: #000408;
+}
+
+nav img {
+    background-color: #e2e1df;
+}
+
+.nav_second img {
+    height: 50px;
+    position: relative;
+    bottom: 10px;
+}
+
+.nav_second a {
+    vertical-align: top;
+    text-decoration: none;
+    font-size: 20px;
+    color: #3ead5e;
+}
+
+
+/* Header */
+
+header h1 {
+    display: inline-block;
+    margin-right: 100px;
+    font-size: 60px;
+    position: relative;
+    bottom: 20px;
+    color: #3988d5;
+}
+
+header #search_asset {
+    height: 34px;
+    background-color: #e2e1df;
+    color: #e2e1df;
+}
+
+header select {
+    position: relative;
+    left: 9px;
+    border-right: 1px solid black;
+}
+
+header ul {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header a {
+    text-decoration: none;
+    position: relative;
+    bottom: 10px;
+    font-size: 19px;
+    color: #58a958;
+}
+
+header .header_second {
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+}
+
+header .header_second select {
+    height: 50px;
+    font-size: 20px;
+    background-color: #38b349;
+    color: #def2cd;
+}
+
+header .header_second option {
+    color: #def2cd;
+}
+
+header .header_second input {
+    height: 50px;
+    font-size: 20px;
+    width: 600px;
+}
+
+header .header_second img {
+    position: relative;
+    top: 5px;
+}
+
+img#search_asset {
+    position: relative;
+    top: 20px;
+    left: 5px;
+    height: 55px;
+}
+
+
+/* Nav */
+
+.navigation_selection {
+    border: 5px solid #e4cda1;
+    text-align: center;
+    background-color: #e4cda1;
+}
+
+.navigation_selection select {
+    margin-left: 100px;
+    margin-right: 100px;
+    border: none;
+    background-color: #e4cda1;
+    font-size: 15px;
+}
+
+
+/* Sections */
+
+section {
+    text-align: center;
+}
+
+.section_part {
+    background-color: #ffce10;
+    width: 90%;
+    margin-left: 74px;
+    margin-right: 50px;
+    position: relative;
+    bottom: 4.5px;
+    border-right: 20px solid #ffce10;
+}
+
+section img {
+    width: 90%;
+    border: 10px solid #ffce10;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+section a {
+    position: relative;
+    bottom: 30px;
+    text-decoration: none;
+}
+
+.section_part img {
+    width: 40%;
+    margin-left: 900px;
+}
+
+.section_part2 {
+    background-color: #ed4054;
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.section_part2 h2 {
+    font-size: 40px;
+    color: #fff2fa;
+}
+
+.market_items {
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.market_items img {
+    border: 1px solid black;
+    width: 20%;
+    height: 300px;
+}
+
+
+/* Footer */
+
+footer {
+    text-align: center;
+    background-color: #f9fafc;
+}
+
+footer h3 {
+    color: #655f5d;
+}
+
+footer input {
+    width: 600px;
+    height: 45px;
+}
+
+footer button {
+    width: 60px;
+    height: 50px;
+    position: relative;
+    right: 3px;
+    background-color: #38b349;
+    color: #d8f9f5;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 15px;
+    font-size: 25px;
+    color: #313235;
+    border-bottom: 2px solid #f9fafc;
+}
+
+footer li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 2px;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 18px;
+    position: relative;
+    bottom: 10px;
+}
+
+footer span {
+    border-right: 1px solid black;
+    padding-right: 15px;
+}
+
+footer img {
+    position: relative;
+    bottom: 25px;
+}
+
+footer .footer_part {
+    position: relative;
+    bottom: 30px;
+    right: 14px;
+}
+
+footer p {
+    color: #8e8080;
+    position: relative;
+    bottom: 60px;
+}
